@@ -14,8 +14,7 @@
 - add items to your ToDo list
 - click on an item to remove it  
 
-#### This app was created as a part of the MITxPro Professional Certificate in Coding course
-#### with specific instructions on how to build it. My contributions were: 
+#### This app was created as a part of the MITxPro Professional Certificate in Coding course with specific instructions on how to build it. My contributions were: 
 - Color scheme
 - styling of the remove button
 - text break feature (pictured above)
